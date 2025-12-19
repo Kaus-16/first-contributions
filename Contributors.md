@@ -1,5 +1,6 @@
 # Contributors
 - [Tripurari Pratap] (https://github.com/pratap-t) : First open source contribution
+- [Ranjith](https://github.com/ranjith-first-contribution) : First open source contribution
 - [Jeevanraj](https://github.com/Flame-Phoneix) : First open source contribution
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [Jonah Kelman](https://github.com/Jonahkel) : First OSS contribution!!
@@ -57,6 +58,7 @@
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
+- [Hrishant Bheda](https://github.com/Hrishant05)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [Lohith Arcot](https://github.com/LohithArcot)
 - [Menuka Hansda](https://github.com/menukahansda)
@@ -84,6 +86,7 @@
 - [Lam](https://github.com/LamNz79)
 - [Hariharan Narlakanti](https://github.com/HariN999): My First Open Source contribution
 -[Mamta Adivasi](https://github.com/milli525)
+-[Nand kishore](https://github.com/Nandkishore-04) :My first ever open source contribution.
 -[Taranjot Singh](https://github.com/Randhawa1255)
 -[Sarvesh Malikakandy](https://github.com/sarveshm27)
 - [webmastervetea](https://github.com/webmastervetea)
